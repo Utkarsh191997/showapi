@@ -3,12 +3,13 @@
 
 When we get in, Search page will be look like this.
 
-![Screenshot (369)](https://user-images.githubusercontent.com/47950367/128610793-1aa71f9f-2b43-4523-aca0-6aa5f462d8a8.png)
+![1](https://user-images.githubusercontent.com/47950367/128903466-476edcfb-ceb5-4337-b112-e1dbd1ea8ace.JPG)
 
 
 After Entering the Search Keyword and Press search Button, it will call the Data from React API and will look like this.
 
-![Screenshot (370)](https://user-images.githubusercontent.com/47950367/128610797-e165140c-31d9-4661-9008-694cd53c5aee.png)
+![2](https://user-images.githubusercontent.com/47950367/128903533-9a2a8fa5-5236-4024-a4f1-cbecacea3588.JPG)
+
 
 And the Data from where We Fetch is mentioned below:
 
